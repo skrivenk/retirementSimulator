@@ -5,3 +5,4 @@ venv/
 # Ignore PyCharm project settings
 .idea/
 *.iml
+__pycache__/
