@@ -31,7 +31,7 @@ The **Retirement Simulation Predictor** is a **GUI-based interactive application
 ## Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/retirementSimulator.git
+   git clone https://github.com/skrivenk/retirementSimulator.git
    cd retirementSimulator
 
 2. Create and activate a virtual environment:
