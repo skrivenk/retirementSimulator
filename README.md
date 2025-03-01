@@ -6,16 +6,16 @@ The **Retirement Simulation Predictor** is a **GUI-based interactive application
 ---
 
 ## Features
-**User-friendly GUI** built with PyQt6  
-**Monte Carlo Simulations** for realistic retirement forecasting  
-**Multiple Investment Strategies** (Aggressive, Moderate, Conservative)  
-**Recession Impact Simulation**  
-**Customizable Contribution Growth** (Increase savings over time)  
-**Annual Bonus Adjustments** (Including growth projections)  
-**Clear Fields Button** for resetting inputs  
-**Status Updates** during simulations  
-**Graphical Visualization of Results** using Matplotlib  
-**Formatted Financial Figures** (No scientific notation)  
+- **User-friendly GUI** built with PyQt6  
+- **Monte Carlo Simulations** for realistic retirement forecasting  
+- **Multiple Investment Strategies** (Aggressive, Moderate, Conservative)  
+- **Recession Impact Simulation**  
+- **Customizable Contribution Growth** (Increase savings over time)  
+- **Annual Bonus Adjustments** (Including growth projections)  
+- **Clear Fields Button** for resetting inputs  
+- **Status Updates** during simulations  
+- **Graphical Visualization of Results** using Matplotlib  
+- **Formatted Financial Figures** (No scientific notation)  
 
 ---
 
