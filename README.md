@@ -6,21 +6,16 @@ The **Retirement Simulation Predictor** is a **GUI-based interactive application
 ---
 
 ## Features
-✅ **User-friendly GUI** built with PyQt6  
-✅ **Monte Carlo Simulations** for realistic retirement forecasting  
-✅ **Multiple Investment Strategies** (Aggressive, Moderate, Conservative)  
-✅ **Recession Impact Simulation**  
-✅ **Customizable Contribution Growth** (Increase savings over time)  
-✅ **Annual Bonus Adjustments** (Including growth projections)  
-✅ **Clear Fields Button** for resetting inputs  
-✅ **Status Updates** during simulations  
-✅ **Graphical Visualization of Results** using Matplotlib  
-✅ **Formatted Financial Figures** (No scientific notation)  
-
----
-
-## Screenshots
-*(Add screenshots of your application here if available)*
+**User-friendly GUI** built with PyQt6  
+**Monte Carlo Simulations** for realistic retirement forecasting  
+**Multiple Investment Strategies** (Aggressive, Moderate, Conservative)  
+**Recession Impact Simulation**  
+**Customizable Contribution Growth** (Increase savings over time)  
+**Annual Bonus Adjustments** (Including growth projections)  
+**Clear Fields Button** for resetting inputs  
+**Status Updates** during simulations  
+**Graphical Visualization of Results** using Matplotlib  
+**Formatted Financial Figures** (No scientific notation)  
 
 ---
 
@@ -40,15 +35,18 @@ The **Retirement Simulation Predictor** is a **GUI-based interactive application
    cd retirementSimulator
 
 2. Create and activate a virtual environment:
-  python -m venv .venv
-  source .venv/bin/activate  # (Mac/Linux)
-  .venv\Scripts\activate     # (Windows)
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # (Mac/Linux)
+   .venv\Scripts\activate     # (Windows)
 
-3. Install dependencies:
-pip install -r requirements.txt
+4. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-4. Run the application:
-python main.py
+6. Run the application:
+   ```bash
+   python main.py
 
 ## How to use
 1. Enter your starting balance, monthly contributions, and annual bonuses.
